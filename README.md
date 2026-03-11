@@ -1,2 +1,2 @@
-# shikra_verify
-6 verify methods
+# ICAUS 2026 智能无人系统挑战赛 2026 飞行避障
+
